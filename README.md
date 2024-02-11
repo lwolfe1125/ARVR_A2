@@ -14,13 +14,20 @@ Creativity is encouraged!
 
 You should fill out this information before submitting your assignment.  Make sure to document the name and source of any third party assets such as 3D models, textures, or any other content used that was not solely written by you.  Include sufficient detail for the instructor to easily find them, such as asset store or download links.
 
-Name: 
+Name: Jett Wolfe
 
-Dal Email:
+Dal Email: lr296711@dal.ca
 
 Build URL:
 
 Third Party Assets:
+
+Snowy Mountains: https://skfb.ly/6RzJV 
+Skybox: https://opengameart.org/content/ulukais-space-skyboxes
+Tree: https://skfb.ly/6yoQ8 
+Platform: https://skfb.ly/6TGst 
+Crystals: https://skfb.ly/oQFp8 
+Tent: https://skfb.ly/onWsG
 
 ## Rubric
 

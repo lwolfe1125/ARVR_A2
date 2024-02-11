@@ -125,8 +125,6 @@ class Game
             })  
         });
 
-        scene.debugLayer.show();
-
         return scene;
     }
 }

@@ -18,7 +18,7 @@ Name: Jett Wolfe
 
 Dal Email: lr296711@dal.ca
 
-Build URL:
+Build URL: https://web.cs.dal.ca/~lwolfe/AR_VR_A2/
 
 Third Party Assets:
 
